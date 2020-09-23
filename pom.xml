@@ -34,5 +34,6 @@
 	<modules>
 		<module>cyb-spring-boot-i18n</module>
 		<module>cyb-spring-boot-openfeign</module>
+		<module>cyb-spring-boot-retry</module>
 	</modules>
 </project>
